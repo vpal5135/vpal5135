@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @vpal5135
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
+- 👋 Hi, I’m Vishal Pal
+- 👀 I’m interested Coding in Python
+- 🌱 I’m currently learning Data Science
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
 <!---
-vpal5135/vpal5135 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Vishal Pal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
